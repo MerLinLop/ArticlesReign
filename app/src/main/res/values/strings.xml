@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ArticlesReign</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="ex_hs">20hs.</string>
+    <string name="ex_author">andromeduck</string>
+    <string name="ex_title">Foxconn’s empty buildings, empty factories, and empty promises in Wisconsin</string>
+    <string name="delete">Eliminar</string>
+    <string name="list_articles">Lista de Artículos</string>
+    <string name="back">Volver</string>
+    <string name="yesterdar">Ayer</string>
+    <string name="min">minutos.</string>
+    <string name="ago">Hace </string>
+    <string name="days">dias.</string>
+    <string name="hour">hs.</string>
+</resources>
